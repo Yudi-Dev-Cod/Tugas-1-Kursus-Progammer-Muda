@@ -12,3 +12,6 @@ void main() {
 
   print([word, second, third, fourth, fifth, six, seventh]);
 }
+
+
+//cara running file berjalan atau tidak dengan cd ke folder lib dan ketik dart nama file

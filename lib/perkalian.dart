@@ -9,3 +9,6 @@ void main() {
 }
 
 //senang rasanya bisa menghasilkan perkalian dari belajar flutter dasar dan dart dasar
+
+
+//cara running file berjalan atau tidak dengan cd ke folder lib dan ketik dart nama file

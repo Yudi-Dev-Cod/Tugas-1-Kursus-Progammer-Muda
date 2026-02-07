@@ -7,3 +7,6 @@ void main() {
 
   print('Hasil pembagian dari $angka1 dan $angka2 adalah $hasilPembagian');
 }
+
+
+//cara running file berjalan atau tidak dengan cd ke folder lib dan ketik dart nama file
